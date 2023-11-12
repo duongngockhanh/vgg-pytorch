@@ -1,4 +1,4 @@
-# Implement of VGG in PyTorch.
+# Implementation of VGG-16 in PyTorch
 
 ## 1. Architecture
 - Very deep convolutional networks for large-scale image recognition: [Paper](https://arxiv.org/pdf/1409.1556.pdf%E3%80%82) 
